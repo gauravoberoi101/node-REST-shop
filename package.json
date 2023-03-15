@@ -1,0 +1,15 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "academind node rest shop tutorial playlist - \"Building a RESTful API with Node.js\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
